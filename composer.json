@@ -1,0 +1,20 @@
+{
+    "name": "lnext/response-for-array",
+    "description": "The capabilities of our storage",
+    "type": "library",
+    "require": {
+        "php": "^8.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lnext\\ResponseForArray\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skorilkin aliksey",
+            "email": "own@lnext.space"
+        }
+    ]
+}
